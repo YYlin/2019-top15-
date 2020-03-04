@@ -7,6 +7,10 @@
     python Feature_Engineering.py
     
 
-# 训练部分
+## 训练部分
 
     python Catboost_Train.py
+    
+
+## 成绩
+![](https://github.com/YYlin/iFLYTEK-mobile-advertising-anti-fraud-top15-2019/blob/master/result.png)
